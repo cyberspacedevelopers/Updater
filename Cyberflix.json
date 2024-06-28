@@ -1,11 +1,11 @@
 {
-  "latestVersion": "12.0",
+  "latestVersion": "13.0",
   "latestVersionCode": "20",
-  "url": "https://bitbucket.org/bitbucketellosvki/ellovskinu/downloads/Flixeon_v2.0.apk",
+  "url": "https://bitbucket.org/cyberspacedev/cyberspacedeveloper/downloads/Flixeon_v2.0.apk",
   "releaseNotes": [
     "[Fix] Bag fixes",
     "[New] Trakt support",
-    "[Update] Major UI improvements",
+    "[Update] Mayor UI improvements",
     "[Update] Added many new sources",
     "[Note] The new version will be installed as a separate app"
   ]
