@@ -1,0 +1,12 @@
+{
+  "latestVersion": "2.0",
+  "latestVersionCode": "20",
+  "url": "https://bitbucket.org/bitbucketellosvki/ellovskinu/downloads/Flixeon_v2.0.apk",
+  "releaseNotes": [
+    "[Fix] Bug fixes",
+    "[New] Trakt support",
+    "[Update] Major UI improvements",
+    "[Update] Added many new sources",
+    "[Note] The new version will be installed as a separate app"
+  ]
+}
