@@ -1,12 +1,7 @@
-{
-  "latestVersion": "8.0",
-  "latestVersionCode": "20",
-  "url": "https://bitbucket.org/cyberspacedev/test/downloads/CyberFlix_-_Movies_and_TV_Shows_v2.0_1_opt.apk",
-  "releaseNotes": [
-    "[Fix] Bug fixes",
-    "[New] Trakt support",
-    "[Update] Major UI improvements",
-    "[Update] Added many new sources",
-    "[Note] The new version will be installed as a separate app"
-  ]
-}
+<AppUpdater>
+  <update>
+    <latestVersion>1.2.2</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+  </update>
+</AppUpdater>
