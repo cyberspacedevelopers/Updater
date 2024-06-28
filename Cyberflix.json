@@ -1,7 +1,13 @@
-<AppUpdater>
-  <update>
-    <latestVersion>1.2.2</latestVersion>
-    <latestVersionCode>10</latestVersionCode>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
-  </update>
-</AppUpdater>
+{
+  "latestVersion": "9.0",
+  "latestVersionCode": "20",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "[Fix] Bug fixes",
+    "[New] Trakt support",
+    "[Update] Major UI improvements",
+    "[Update] Added many new sources",
+    "[Note] The new version will be installed as a separate app"
+  ]
+}
+<
