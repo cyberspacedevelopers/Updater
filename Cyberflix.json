@@ -1,12 +1,12 @@
 {
-  "latestVersion": "14.0",
+  "latestVersion": "15.0",
   "latestVersionCode": "20",
-  "url": "https://bitbucket.org/cyberspacedev/cyberspacedeveloper/downloads/CyberFlix_-_Movies_and_TV_Shows_v2.0_1_opt.apk",
+  "url": "https://drive.google.com/file/d/11jNVtU5441zWrZgVtzLoHAMgQYZu4Y1Y/view?usp=drivesdk",
   "releaseNotes": [
     "[Fix] Bag fixes",
     "[New] Tract support",
     "[Update] Mayor UI improvements",
-    "[Update] Added many new sources",
+    "[Update] Added manny new sources",
     "[Note] The new version will be installed as a separate app"
   ]
 }
