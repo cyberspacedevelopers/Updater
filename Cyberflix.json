@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": "20",
-  "url": "https://bitbucket.org/cyberspacedev/cyberspacedeveloper/downloads/CyberFlix_-_Movies_and_TV_Shows_v2.0_1_opt.apk",
+  "latestVersion": "2.5",
+  "latestVersionCode": "25",
+  "url": "https://bitbucket.org/cyberspacedev/cyberspacedeveloper/downloads/CyberFlix_-_Movies_and_TV_Shows_v2.5.apk",
   "releaseNotes": [
-    "[Fix] Bag fixes",
-    "[New] Tract support",
-    "[Update] Mayor UI improvements",
+    "[Fix] Bug fixes",
+    "[New] New Splash Screen",
+    "[Update] Major UI improvements",
     "[Update] Added manny new sources",
-    "[Note] The new version will be installed as a separate app"
+    "[Note] This update improved security"
   ]
 }
